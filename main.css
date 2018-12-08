@@ -1,0 +1,19 @@
+canvas{
+    border: 10px solid rgb(129, 202, 110);
+    background-color: aqua;
+
+    /*  me da errores en el posicionamiento de los objetos cuando reinicio
+    position:absolute;
+    */
+
+    top:0;bottom:0;right:0;left:0;
+    margin:auto;
+}
+.entra{
+    position: relative;
+    text-align: center;
+    background-color: yellow;
+}
+#cantidad{
+    text-align: right;
+}
