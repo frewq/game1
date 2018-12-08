@@ -1,3 +1,5 @@
+alert('al toke perro')
+
 var canvas = document.querySelector('canvas')
 var input = document.getElementById('cantidad')
 var c = canvas.getContext('2d')
