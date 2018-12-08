@@ -1,3 +1,5 @@
+alert('B1enVeniDo Guacho')
+
 var canvas = document.querySelector('canvas')
 var input = document.getElementById('cantidad')
 var c = canvas.getContext('2d')
